@@ -1,0 +1,44 @@
+{
+  "errors": [
+    {
+      "name": "SyntaxError",
+      "count": 3
+    },
+    {
+      "name": "NullPointerException",
+      "count": 5
+    },
+    {
+      "name": "TypeError",
+      "count": 2
+    },
+    {
+      "name": "IndexError",
+      "count": 1
+    },
+    {
+      "name": "FileNotFoundException",
+      "count": 4
+    },
+    {
+      "name": "AssertionError",
+      "count": 2
+    },
+    {
+      "name": "DivideByZeroError",
+      "count": 6
+    },
+    {
+      "name": "KeyError",
+      "count": 1
+    },
+    {
+      "name": "OutOfMemoryError",
+      "count": 7
+    },
+    {
+      "name": "ValueError",
+      "count": 3
+    }
+  ]
+}
