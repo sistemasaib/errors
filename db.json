@@ -9,22 +9,6 @@
       "count": 5
     },
     {
-      "name": "TypeError",
-      "count": 2
-    },
-    {
-      "name": "IndexError",
-      "count": 1
-    },
-    {
-      "name": "FileNotFoundException",
-      "count": 4
-    },
-    {
-      "name": "AssertionError",
-      "count": 2
-    },
-    {
       "name": "DivideByZeroError",
       "count": 6
     },
